@@ -2,4 +2,12 @@ Rockbuster stealth is a movie rental company that is looking to make a transitio
 The goal of this analysis was to answer business questions Rockbuster can use for forming a company strategy.
 Key Questions
   -Which movies contributed the most/least to revenue gain?
-  -
+  -What was the average rental duration for all videos?
+  -Which countries are Rockbuster customers based in?
+  -Where are customers with a high lifetime value based?
+  -Do sales figured vary between geographic region?
+
+There are 3 files in this portfolio project:
+  1.Rockbuster Stealth Stakeholder Presentation: Final stakeholder presentation with summary of analysis
+  2.Rockbuster Data Dictionary: Data dictionary showing the ERD and tables
+  3.Rockbuster SQL Queries: SQL queries ran and outputs from those queries
